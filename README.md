@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Elias5ngugi&show_icons=true&theme=radical" width="400px">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elias5ngugi&theme=radical" width="400px">
+  ![Elias5ngugi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elias5ngugi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 </p>
 
 ---
